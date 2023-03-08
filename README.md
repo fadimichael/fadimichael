@@ -14,6 +14,8 @@ https://pagespeed-insights.herokuapp.com?url=https://github.com/fadimichael -->
 
 ### 👨🏾‍💻 &nbsp;About Me :
 
+<div style="display: flex;justify-content: space-between;align-items: center;">
+<div align="left" style="width:70%">
 I'm a fater,Husband and Junior Entwickler. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Germany.
 
 💡 I recently completed the Fullstack Web Developer bootcamp at SuperCode.
@@ -28,18 +30,19 @@ with technology and trends.
 ⚡ Motto: Code smarter, not harder.
 📫 How to reach me<img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif?raw=true" width="60">: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-fadimichael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meet-with-fadi-michael/)
 
-<table align="right">
+</div>
+
+<table style="width:20%">
     <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197571.svg" height="15"> German ★★★</a></td></tr>
     <tr><td><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> English ★★★</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197375.svg" height="15"> Mandarin ★★☆</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197408.svg" height="15"> Russian ★★☆</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/3909444.svg" height="15"> Hindi ★★★</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197571.svg" height="15"> German ★☆☆</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197375.svg" height="15"> Arabic ★★★</a></td></tr>
 </table>
+</div>
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;Techs and Tools :
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
