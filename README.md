@@ -15,7 +15,7 @@ https://pagespeed-insights.herokuapp.com?url=https://github.com/fadimichael -->
 ### 👨🏾‍💻 &nbsp;About Me :
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-<div align="left">
+<div align="left" style="width:70vw">
 <p>I'm a fater,Husband and Junior Entwickler. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Germany.</p>
 
 <p>💡 I recently completed the Fullstack Web Developer bootcamp at SuperCode.</p>
@@ -32,7 +32,7 @@ with technology and trends. </p>
 <a href="https://www.linkedin.com/in/meet-with-fadi-michael/"><img src="https://img.shields.io/badge/-fadimichael-blue?style=flat&logo=Linkedin&logoColor=white"/><a>
 </div>
 
-<table>
+<table style="width:20vw">
     <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
     <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197571.svg" height="15"> German ★★★</a></td></tr>
     <tr><td><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> English&nbsp ★★★</a></td></tr>
