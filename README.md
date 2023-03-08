@@ -1,7 +1,6 @@
-<a href='https://github.com/marketplace/actions/quote-readme'>
-<!--STARTS_HERE_QUOTE_README-->
-<!--ENDS_HERE_QUOTE_README-->
-</a>
+<!-- ## PageSpeed Insights
+
+https://pagespeed-insights.herokuapp.com?url=https://github.com/fadimichael -->
 
 <p align="center"><img src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width="250"/></p>
 <p align="center">
@@ -13,7 +12,7 @@
 
 <p align="center"><img src="https://www.lambdatest.com/resources/images/news24.gif" width="600" height="300"  /></p>
 
-### :woman_technologist: &nbsp;About Me :
+### 👨🏾‍💻 &nbsp;About Me :
 
 I'm a fater,Husband and Junior Entwickler. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Germany.
 
@@ -27,7 +26,16 @@ near Düsseldorf, or remote.
 🏆 Goal: Continuous learning and updating my knowledge to stay up-to-date
 with technology and trends.
 ⚡ Motto: Code smarter, not harder.
-📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-fadimichael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meet-with-fadi-michael/)
+📫 How to reach me<img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif?raw=true" width="60">: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-fadimichael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meet-with-fadi-michael/)
+
+<table align="right">
+    <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
+    <tr><td><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> English ★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197375.svg" height="15"> Mandarin ★★☆</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197408.svg" height="15"> Russian ★★☆</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/3909444.svg" height="15"> Hindi ★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197571.svg" height="15"> German ★☆☆</a></td></tr>
+</table>
 
 ---
 
@@ -72,7 +80,7 @@ with technology and trends.
 <div align="center">
 <a href="https://www.linkedin.com/in/meet-with-fadi-michael/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /><a>
 <a href="https://wa.me/491749494977"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  /><a>
-<a href="https://wa.me/491749494977"><img src="https://www.svgrepo.com/download/110209/viber.svg" width="52" height="40" alt="Viber logo"  /><a>
+<a href="https://vb.me/chat?number=+491749494977"><img src="https://www.svgrepo.com/download/110209/viber.svg" width="52" height="40" alt="Viber logo"  /><a>
 <a href="https://www.instagram.com/fadi.michael/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /><a>
 <a href="https://discord.com/invite/#5118"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /><a>
 </div>
@@ -81,8 +89,53 @@ with technology and trends.
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/fadimichael/fadimichael/blob/output/snake.svg" alt="Snake animation" />
+### 💎 overview of my work 📄 during the Bootcamp:
 
-<!-- platane/snk works, it just puts it on a new branch -->
+</br></br>
 
-![mishmanners snake gif](https://github.com/fadimichael/fadimichael/blob/output/github-contribution-grid-snake.svg)
+#####++ GrosShop... your Grocery online shop ++</br>
+
+- <a href=https://gros-shop-app.onrender.com/>Live Site</a></br>
+- <a href=https://github.com/Mikex95/GrosShop>Github Link</a></br></br>
+
+#####++ .MOV Project ... your Movie Database ++ </br>
+
+- <a href=https://639b84a8c5bc870008b963e6--dreamy-blini-f92ffa.netlify.app/>Live Site</a></br>
+- <a href=https://github.com/DrSergej/.mov-Project>Github Link</a></br></br>
+
+#####++ THE DESIGN SHOP ++ </br>
+
+- <a href=https://fadimichael.github.io/09-design-shop/>Live Site</a></br>
+- <a href=https://github.com/fadimichael/09-design-shop>Github Link</a></br></br>
+
+#####++ Todo MERN App ++</br>
+
+- <a href=https://todo-app-mern.onrender.com/>Live Site</a></br>
+- <a href=https://github.com/fadimichael/Todo-app-MERN>Github Link</a></br></br>
+
+#####++ Weather App ++</br>
+
+- <a href=https://fadimichael.github.io/Wetter-App/>Live Site</a></br>
+- <a href=https://github.com/fadimichael/Wetter-App>Github Link</a></br></br>
+
+#####++ Newspaper ++ </br>
+
+- <a href=https://fadimichael.github.io/08-newspaper/>Live Site</a></br>
+- <a href=https://github.com/fadimichael/08-newspaper>Github Link</a></br></br>
+
+#####++ Rock Paper and Scissor ++</br>
+
+- <a href=https://fadimichael.github.io/16-rock-paper-scissor/>Live Site</a></br>
+- <a href=https://github.com/fadimichael/16-rock-paper-scissor>Github Link</a></br></br>
+
+#####++ Traveller Project ++ </br>
+
+- <a href=https://fadimichael.github.io/02-traveller/>Live Site</a></br>
+- <a href=https://github.com/fadimichael/02-traveller>Github Link</a></br></br>
+
+#####++ Kalorien-Rechner ++ </br>
+
+- <a href=https://fadimichael.github.io/15-kalorien-rechner/>Live Site</a></br>
+- <a href=https://github.com/fadimichael/15-kalorien-rechner>Github Link</a></br></br>
+
+##
