@@ -16,18 +16,18 @@ https://pagespeed-insights.herokuapp.com?url=https://github.com/fadimichael -->
 
 <div style="display: flex;justify-content: space-between;align-items: center;">
 <div align="left" style="width:70%">
-I'm a fater,Husband and Junior Entwickler. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Germany.
+<p>I'm a fater,Husband and Junior Entwickler. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Germany.</p>
 
-💡 I recently completed the Fullstack Web Developer bootcamp at SuperCode.
-👨🏽‍🎓 I enjoy coding.
-📚 I'm constantly learning new skills and striving for progress.
-💻 Currently, I'm working on improving my Next.js skills.
-🆕 I'm looking for an interesting new job as a junior developer in or
-near Düsseldorf, or remote.
-📫 Feel free to contact me on LinkedIn.
-🏆 Goal: Continuous learning and updating my knowledge to stay up-to-date
-with technology and trends.
-⚡ Motto: Code smarter, not harder.
+<p>💡 I recently completed the Fullstack Web Developer bootcamp at SuperCode.</p>
+<p>👨🏽‍🎓 I enjoy coding.</p>
+<p>📚 I'm constantly learning new skills and striving for progress. </p>
+<p>💻 Currently, I'm working on improving my Next.js skills.</p>
+<p>🆕 I'm looking for an interesting new job as a junior developer in or
+near Düsseldorf, or remote. </p>
+<p>📫 Feel free to contact me on LinkedIn. </p>
+<p>🏆 Goal: Continuous learning and updating my knowledge to stay up-to-date
+with technology and trends. </p>
+<p>⚡ Motto: Code smarter, not harder. </p>
 📫 How to reach me<img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif?raw=true" width="60">: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-fadimichael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meet-with-fadi-michael/)
 
 </div>
