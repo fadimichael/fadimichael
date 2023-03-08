@@ -15,7 +15,7 @@ https://pagespeed-insights.herokuapp.com?url=https://github.com/fadimichael -->
 ### 👨🏾‍💻 &nbsp;About Me :
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-<div align="left" style="width:60%">
+<div align="left">
 <p>I'm a fater,Husband and Junior Entwickler. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Germany.</p>
 
 <p>💡 I recently completed the Fullstack Web Developer bootcamp at SuperCode.</p>
@@ -28,15 +28,15 @@ near Düsseldorf, or remote. </p>
 <p>🏆 Goal: Continuous learning and updating my knowledge to stay up-to-date
 with technology and trends. </p>
 <p>⚡ Motto: Code smarter, not harder. </p>
-📫 How to reach me<img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif?raw=true" width="60">: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-fadimichael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meet-with-fadi-michael/)
-
+📫 How to reach me<img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif?raw=true" width="60">: &nbsp; 
+<a href="https://www.linkedin.com/in/meet-with-fadi-michael/"><img src="https://img.shields.io/badge/-fadimichael-blue?style=flat&logo=Linkedin&logoColor=white"/><a>
 </div>
 
-<table style="width:20%">
+<table>
     <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
     <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197571.svg" height="15"> German ★★★</a></td></tr>
-    <tr><td><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> English ★★★</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197375.svg" height="15"> Arabic ★★★</a></td></tr>
+    <tr><td><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> English&nbsp ★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197375.svg" height="15"> Arabic&nbsp &nbsp ★★★</a></td></tr>
 </table>
 </div>
 
