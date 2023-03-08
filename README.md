@@ -1,15 +1,15 @@
-<!-- ## PageSpeed Insights
-
-https://pagespeed-insights.herokuapp.com?url=https://github.com/fadimichael -->
-
 <p align="center"><img src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width="250"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/meet-with-fadi-michael/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/fadimichael/count.svg?" alt=""></p>
 
-<h1 align="center">Hey  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">What's up!?</h1>
+<h1 align="center"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com/demo/">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hey%20What's%20up!?;I'm%20Fadi%20Michael;Full-stack%20web%20and%20app%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=700&weight=700&height=45&color=FFA818&vCenter=true&pause=1000&size=30" /></a>
+</p>
 <p align="center"><img src="https://www.lambdatest.com/resources/images/news24.gif" width="600" height="300"  /></p>
 
 ---
