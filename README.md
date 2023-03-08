@@ -17,7 +17,7 @@ https://pagespeed-insights.herokuapp.com?url=https://github.com/fadimichael -->
 ### 👨🏾‍💻 &nbsp;About Me :
 
 <div align="left" style="width:70vw">
-<p>I'm a fater,Husband and Junior Entwickler. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Germany.</p>
+<p>I'm a father,Husband and Junior Entwickler. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Germany.</p>
 
 <p>💡 I recently completed the Fullstack Web Developer bootcamp at SuperCode.</p>
 <p>👨🏽‍🎓 I enjoy coding.</p>
