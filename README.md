@@ -41,11 +41,12 @@ with technology and trends. </p>
     <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197571.svg" height="15"> German ★★★</a></td></tr>
     <tr><td><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> English&nbsp ★★★</a></td></tr>
     <tr><td><a href="README_pt.md"><img src="https://cdn-icons-png.flaticon.com/512/323/323324.png" height="15"> Arabic&nbsp &nbsp ★★★</a></td></tr>
- </table></div>
+ </table>
+</div>
 
 ---
 
-### 🛠 &nbsp;Techs and Tools :
+### 🛠️ &nbsp;Techs and Tools :
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
@@ -70,18 +71,21 @@ with technology and trends. </p>
 
 ---
 
-### 🔥 &nbsp; My Stats :
+### 📊 &nbsp; Github Stats and Activity :
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fadimichael&show_icons=true&theme=gruvbox" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&username=fadimichael" height="150" alt="languages graph"  />
+   <a href="https://github.com/fadimichael/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="fadimichael's streak" src="https://streak-stats.demolab.com/?user=fadimichael&theme=monokai-metallian&hide_border=true" height="150"/>
+    </a>
 </div>
 
 ###
 
 ---
 
-### 🛠 &nbsp;Social Media :
+### 🌠 &nbsp;Social Media :
 
 <div align="center">
 <a href="https://www.linkedin.com/in/meet-with-fadi-michael/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /><a>
@@ -93,55 +97,54 @@ with technology and trends. </p>
 
 ###
 
-<br clear="both">
+---
 
-### 💎 overview of my work 📄 during the Bootcamp:
+<a></a>
 
-</br></br>
-
-#####++ GrosShop... your Grocery online shop ++</br>
+<details open> 
+  <summary><h3>💎 overview of my work 📘 during the Bootcamp:</h3></summary>
+++ GrosShop... your Grocery online shop ++</br>
 
 - <a href=https://gros-shop-app.onrender.com/>Live Site</a></br>
 - <a href=https://github.com/Mikex95/GrosShop>Github Link</a></br></br>
 
-#####++ .MOV Project ... your Movie Database ++ </br>
+++ .MOV Project ... your Movie Database ++</br>
 
 - <a href=https://639b84a8c5bc870008b963e6--dreamy-blini-f92ffa.netlify.app/>Live Site</a></br>
 - <a href=https://github.com/DrSergej/.mov-Project>Github Link</a></br></br>
 
-#####++ THE DESIGN SHOP ++ </br>
+++ THE DESIGN SHOP ++ </br>
 
 - <a href=https://fadimichael.github.io/09-design-shop/>Live Site</a></br>
 - <a href=https://github.com/fadimichael/09-design-shop>Github Link</a></br></br>
 
-#####++ Todo MERN App ++</br>
+++ Todo MERN App ++</br>
 
 - <a href=https://todo-app-mern.onrender.com/>Live Site</a></br>
 - <a href=https://github.com/fadimichael/Todo-app-MERN>Github Link</a></br></br>
 
-#####++ Weather App ++</br>
+++ Weather App ++</br>
 
 - <a href=https://fadimichael.github.io/Wetter-App/>Live Site</a></br>
 - <a href=https://github.com/fadimichael/Wetter-App>Github Link</a></br></br>
 
-#####++ Newspaper ++ </br>
+++ Newspaper ++ </br>
 
 - <a href=https://fadimichael.github.io/08-newspaper/>Live Site</a></br>
 - <a href=https://github.com/fadimichael/08-newspaper>Github Link</a></br></br>
 
-#####++ Rock Paper and Scissor ++</br>
+++ Rock Paper and Scissor ++</br>
 
 - <a href=https://fadimichael.github.io/16-rock-paper-scissor/>Live Site</a></br>
 - <a href=https://github.com/fadimichael/16-rock-paper-scissor>Github Link</a></br></br>
 
-#####++ Traveller Project ++ </br>
+++ Traveller Project ++ </br>
 
 - <a href=https://fadimichael.github.io/02-traveller/>Live Site</a></br>
 - <a href=https://github.com/fadimichael/02-traveller>Github Link</a></br></br>
 
-#####++ Kalorien-Rechner ++ </br>
+++ Kalorien-Rechner ++ </br>
 
 - <a href=https://fadimichael.github.io/15-kalorien-rechner/>Live Site</a></br>
 - <a href=https://github.com/fadimichael/15-kalorien-rechner>Github Link</a></br></br>
-
-##
+</details>
