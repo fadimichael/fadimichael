@@ -74,8 +74,8 @@ with technology and trends. </p>
 ### 📊 &nbsp; Github Stats and Activity :
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fadimichael&show_icons=true&theme=gruvbox" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&username=fadimichael" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fadimichael&show_icons=true&theme=gruvbox&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&username=fadimichael" height="150" alt="languages graph"  />
    <a href="https://github.com/fadimichael/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="fadimichael's streak" src="https://streak-stats.demolab.com/?user=fadimichael&theme=monokai-metallian&hide_border=true" height="150"/>
     </a>
