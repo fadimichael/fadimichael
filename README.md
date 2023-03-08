@@ -14,8 +14,8 @@ https://pagespeed-insights.herokuapp.com?url=https://github.com/fadimichael -->
 
 ### 👨🏾‍💻 &nbsp;About Me :
 
-<div style="display: flex;justify-content: space-between;align-items: center;">
-<div align="left" style="width:70%">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+<div align="left" style="width:60%">
 <p>I'm a fater,Husband and Junior Entwickler. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Germany.</p>
 
 <p>💡 I recently completed the Fullstack Web Developer bootcamp at SuperCode.</p>
